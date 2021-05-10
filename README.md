@@ -1,0 +1,1 @@
+This is Lynn’s first git project!
